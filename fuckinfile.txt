@@ -1,2 +1,1 @@
-This is a fucking file from github
-Change from Newbranch
+There are some infomations when meger newbranch to master branch
